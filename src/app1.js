@@ -8,6 +8,4 @@ let Merhaba = () => {
 };
 export default Merhaba;
 
-
-
 //branch basladi
